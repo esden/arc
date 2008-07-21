@@ -1,6 +1,8 @@
 ; Operations on bits.
 ; C style
 ;
+; By Piotr Esden-Tempski <piotr at esden.net>
+;
 ; NOTES:
 ; We can not use ~ that is why bnot has been defined
 ; hopefully it can be resolved in the future
